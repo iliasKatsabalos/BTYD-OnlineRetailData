@@ -1,5 +1,9 @@
 # BTYD-OnlineRetailData
-Buy Till You Die Package in R. The aim is to predict the date until next customer purchase
+Buy Till You Die Package in R. The aim is to predict the date until next customer purchase. The code used is included in the BTYD walkthrough
+
+https://cran.r-project.org/web/packages/BTYD/vignettes/BTYD-walkthrough.pdf
+
+I also used a fixed version of the Pareto/NBD found in https://github.com/theofilos/BTYD, so credits to theofilos for his contribution.
 
 ## 1. Exploratory Data Analysis
 I used python for the exploratory data analysis and imported the pandas, numpy, matplotlib and seaborn libraries, all included in the latest version of anaconda. The file attached is called ”Ilias_Katsabalos_EDA.ipynb” and can be opened with the jupyter notebook. I also included “Ilias_Katsabalos_EDA.py” but I suggest you run the ipynb version, as it is much more self-explanatory. For any occasion, I will present all the visuals here also, for a quick look.
